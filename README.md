@@ -148,26 +148,6 @@ Minha meta
 
 Evoluir um pouco a cada dia e transformar aprendizado em projetos reais.
 
-Estou praticando:
-
-•
-Interfaces responsivas;
-
-•
-Organização de HTML, CSS e JavaScript;
-
-•
-Manipulação do DOM;
-
-•
-Consumo de APIs;
-
-•
-Lógica de programação;
-
-•
-Documentação de projetos.
-
 <div align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1800&color=BC8CFF&center=true&vCenter=true&width=500&lines=Aprendendo+Front-end;Criando+meus+primeiros+projetos;Um+commit+de+cada+vez" alt="Animação de texto" />
 
 
