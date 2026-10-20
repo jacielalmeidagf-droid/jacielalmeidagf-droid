@@ -135,14 +135,6 @@ Calcular a média de pontuação;
 •
 Atualizar os pontos dos jogadores.
 
-Próximos projetos
-
-•
-Lista de tarefas: aplicação web com JavaScript e armazenamento local.
-
-•
-Pokédex cyberpunk: projeto front-end consumindo uma API pública.
-
 Minha meta
 
 
